@@ -19,7 +19,7 @@ The app will be a simple employee database and we'll learn:
 ## Installation
 
 ```
-git clone https://github.com/taniarascia/vue-tutorial
+git clone https://github.com/ectivise/vue-tutorial.git
 cd vue-tutorial
 yarn
 yarn serve
